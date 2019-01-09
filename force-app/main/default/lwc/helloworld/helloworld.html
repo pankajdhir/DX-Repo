@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="HelloWorld" icon-name="custom:custom14">
+        <div class="slds-m-around_medium">
+            <p>Hello, {greeting}!</p>
+            <lightning-input label="Name" value={greeting} onchange={changeHandler}></lightning-input>
+        </div>
+    </lightning-card>
+    <template if:true={contacts}>
+        <template for:each={contacts} for:item="contact">
+            <p key={contact.Id}>{contact.Name}</p>
+        </template>
+    </template>
+    <template if:true={error}>
+        Error
+    </template>
+</template>

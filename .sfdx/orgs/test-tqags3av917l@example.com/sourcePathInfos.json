@@ -1,0 +1,264 @@
+[
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546854158841,
+            "changeTime": 1546854158841,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546854158841,
+            "changeTime": 1546854158841,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546933228366,
+            "changeTime": 1546933228366,
+            "contentHash": "7dc89f1bb9af1354e768afb960fd2759cab48af1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546854158843,
+            "changeTime": 1546854158843,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546855707707,
+            "changeTime": 1546855707707,
+            "contentHash": "f7deef33d093eedf2bcb867d719a1767970c362a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546855707717,
+            "changeTime": 1546855707717,
+            "contentHash": "53f955e7650ec82d25c8a07194b1fe6ddce8d87b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.html",
+            "isDirectory": false,
+            "size": 551,
+            "modifiedTime": 1546940079140,
+            "changeTime": 1546940079140,
+            "contentHash": "4ae7e61a0c4b96820077ef9f4e9c2055a7fe49ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js",
+            "isDirectory": false,
+            "size": 552,
+            "modifiedTime": 1546940089974,
+            "changeTime": 1546940089974,
+            "contentHash": "e37d41257e8f775c8df09421d96d26cfbc194872",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloworld\\helloworld.js-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1546855947232,
+            "changeTime": 1546855947232,
+            "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546865866441,
+            "changeTime": 1546930971299,
+            "contentHash": "35341add66258edc6cff40f6ebc4dffb79efdabe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1546933228344,
+            "changeTime": 1546933228344,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 2113,
+            "modifiedTime": 1546933228350,
+            "changeTime": 1546933228350,
+            "contentHash": "3d82be01a117f550c664c3ea3bb5118c21b591a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1546933228354,
+            "changeTime": 1546933228354,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 253,
+            "modifiedTime": 1546940394753,
+            "changeTime": 1546940394753,
+            "contentHash": "b61536f22442c469ae115a3aeaa2a028be909bc1"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18707,
+            "modifiedTime": 1546933228374,
+            "changeTime": 1546933228374,
+            "contentHash": "7d0e49f88f9a0d1af9cfd0872a4712716aced554",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546933228343,
+            "changeTime": 1546933228343,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546933228349,
+            "changeTime": 1546933228349,
+            "contentHash": "8db0c01f640acc7ba1b555b8d1a44b12fe1de7dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546933228356,
+            "changeTime": 1546933228356,
+            "contentHash": "cc0c910fdddb381b8f59557cb7b72d9252eaf09f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\Users\\pandhir\\Documents\\HelloWorldLightningWebComponent\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546933228373,
+            "changeTime": 1546933228373,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
